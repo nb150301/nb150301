@@ -13,11 +13,12 @@ My name is Nguyen Bui from Vietnam :vietnam:.
 
 ### **🤙 How to reach me:**
 <a href="https://www.facebook.com/nb150301" target="_blank">
-  [<img align="left" alt="fb_link" width="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/facebook.svg" />][facebook]
+  <img align="left" alt="fb_link" width="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/facebook.svg" />[facebook]
 </a>
 <a href="mailto:anhnguyen150301@gmail.com">
-  [<img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" />][gmail]
+  <img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" />[gmail]
 </a>
+
 ### **🔥 Languages and Tools:**
 [<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/cplusplus.svg" />][website]
 [<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/php.svg" />][website]
