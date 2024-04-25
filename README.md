@@ -7,7 +7,7 @@ My name is Bui Le Anh Nguyen, I am from Vietnam :vietnam:
   
 ### **🌈 Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I'm a sophomore at UIT, and I have a big passion for technology.
+- 👨🏽‍💻 I have a big passion for technology.
 - ⚡ I’m currently learning everything 🤣
 - 💬 Ask me about anything.
 
