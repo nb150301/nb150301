@@ -22,7 +22,7 @@ My name is Bui Le Anh Nguyen, I am from Vietnam :vietnam:
 
 
 ### **🔥 Languages and Tools:**
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/java" />
+<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/java.svg" />
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/cplusplus.svg" />
 <img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/php.svg" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/javascript.svg" />
